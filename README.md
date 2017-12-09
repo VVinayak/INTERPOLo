@@ -1,6 +1,6 @@
-# CSE6242-project
+# Terrorism-Data-Science
 
-CSE 6242 course project on helping data scientists better analyse and visualize the impacts of world terrorism
+CSE 6242 course project at GeorgiaTech on helping data scientists better analyse and visualize the impacts of world terrorism
 
 By Cooper Colglazier, Minghan Xu, Huaiwei Sun, Eugene Kang, James Lee and Vineet Vinayak Pasupulety
 
@@ -19,7 +19,7 @@ By Cooper Colglazier, Minghan Xu, Huaiwei Sun, Eugene Kang, James Lee and Vineet
 - You can choose to download the entire zip file for this repository to your system or use terminal:
 
 ```
-git clone https://github.com/ccolg/cse6242-project.git
+git clone https://github.com/VVinayak/Terrorism-Data-Science.git
 ```
 
 - Download the GTD dataset from [this website](https://www.kaggle.com/START-UMD/gtd/data). We also recommend downloading the [GTD codebook](https://www.start.umd.edu/gtd/downloads/Codebook.pdf) that helps understand the various columns/attributes of the data - this would help you in picking the most relevant characteristics for your analysis.
