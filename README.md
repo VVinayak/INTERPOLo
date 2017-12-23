@@ -1,4 +1,4 @@
-# Terrorism-Data-Science
+# INTERPOLo
 
 CSE 6242 course project at GeorgiaTech on helping data scientists better analyse and visualize the impacts of world terrorism
 
